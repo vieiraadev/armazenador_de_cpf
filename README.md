@@ -1,6 +1,4 @@
 
-Claro! Vou criar um README para um projeto em Python que armazena CPFs utilizando SQLite.
-
 Projeto de Armazenador de CPF
 
 Este projeto demonstra como criar um armazenador de CPFs utilizando Python e SQLite. Ele permite adicionar, listar e buscar CPFs em um banco de dados SQLite.
